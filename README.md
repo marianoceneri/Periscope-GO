@@ -15,9 +15,9 @@ Una extensión de Visual Studio Code que permite ver rápidamente la implementac
 - Extensión Go para VS Code (`golang.go`)
 - Go instalado en el sistema
 - Go Language Server configurado correctamente
-
+ 
 ## Uso
-
+   
 Hay dos formas de usar la extensión:
 
 ### Usando Atajo de Teclado (Recomendado)
